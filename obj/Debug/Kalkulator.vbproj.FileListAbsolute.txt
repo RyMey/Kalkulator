@@ -1,0 +1,10 @@
+F:\Rya\VB\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+F:\Rya\VB\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+F:\Rya\VB\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+F:\Rya\VB\Kalkulator\Kalkulator\bin\Debug\Kalkulator.xml
+F:\Rya\VB\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+F:\Rya\VB\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Resources.resources
+F:\Rya\VB\Kalkulator\Kalkulator\obj\Debug\Kalkulator.vbproj.GenerateResource.Cache
+F:\Rya\VB\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+F:\Rya\VB\Kalkulator\Kalkulator\obj\Debug\Kalkulator.xml
+F:\Rya\VB\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
